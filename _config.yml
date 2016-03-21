@@ -6,16 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: ksergey's pirate bay
+email: inndie@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+    The volcano erupted, but they dug a trench
+    And diverted the lava into the sea
+    Where it found a spectacular pier
+    They were attacked by the pirates but defeated them
+    With bamboo bazookas firing
+    Sea-urchins packed with home-made nitro-glycerin.
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://ksergey.github.io" # the base hostname & protocol for your site
+twitter_username: ksergey_
+github_username:  ksergey
 
 # Build settings
 markdown: kramdown
