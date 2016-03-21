@@ -9,12 +9,7 @@
 title: ksergey's pirate bay
 email: inndie@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    The volcano erupted, but they dug a trench
-    And diverted the lava into the sea
-    Where it found a spectacular pier
-    They were attacked by the pirates but defeated them
-    With bamboo bazookas firing
-    Sea-urchins packed with home-made nitro-glycerin.
+    no way
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://ksergey.github.io" # the base hostname & protocol for your site
 twitter_username: ksergey_
