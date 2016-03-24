@@ -6,18 +6,17 @@ highlighter: rouge
 permalink: pretty
 
 # Setup
-title: random gaming experience
+title: "random gaming experience"
 tagline:
-description: play hard, don't die
-url: http://ksergey.github.io
-baseurl: /
+description: "lay hard, don't die"
+url: "http://ksergey.github.io"
+baseurl: "/"
 
 author:
-    name: Sergey Kovalevich
-    url: https://twitter.com/ksergey_
+    name: "Sergey Kovalevich"
 
 paginate: 16
 
 gems:
-    - jekyll-paginate
-    - jekyll-youtube
+    - "jekyll-paginate"
+    - "jekyll-youtube"
