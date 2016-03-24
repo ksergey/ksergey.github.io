@@ -10,10 +10,17 @@ title: ksergey's pirate bay
 email: inndie@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     no way
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ksergey.github.io" # the base hostname & protocol for your site
+baseurl: / # the subpath of your site, e.g. /blog
+url: http://ksergey.github.io # the base hostname & protocol for your site
 twitter_username: ksergey_
 github_username:  ksergey
+timezone: Europe/Moscow
+
+links:
+    - title: Home
+      url: /
+      external: false
+      icon: home
 
 # Build settings
 markdown: kramdown
