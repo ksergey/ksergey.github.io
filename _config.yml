@@ -19,4 +19,3 @@ paginate: 16
 
 gems:
     - "jekyll-paginate"
-    - "jekyll-youtube"
