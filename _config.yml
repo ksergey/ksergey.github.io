@@ -18,5 +18,6 @@ author:
 
 paginate: 16
 
-gems: [ jekyll-youtube ]
-
+gems:
+    - jekyll-paginate
+    - jekyll-youtube
