@@ -17,3 +17,7 @@ author:
     url: https://twitter.com/ksergey_
 
 paginate: 16
+
+# plugins
+gems:
+    - youtube
