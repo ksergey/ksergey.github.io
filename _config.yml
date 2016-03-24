@@ -8,7 +8,7 @@ permalink: pretty
 # Setup
 title: "random gaming experience"
 tagline:
-description: "lay hard, don't die"
+description: "play hard, don't die"
 url: "http://ksergey.github.io"
 baseurl: "/"
 
@@ -19,3 +19,4 @@ paginate: 16
 
 gems:
     - "jekyll-paginate"
+    - "jekyll-youtube"
