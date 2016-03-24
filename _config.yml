@@ -18,6 +18,4 @@ author:
 
 paginate: 16
 
-# plugins
-gems:
-    - youtube
+gems: [ jekyll-youtube ]
