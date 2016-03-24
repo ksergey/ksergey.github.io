@@ -6,9 +6,9 @@ highlighter: rouge
 permalink: pretty
 
 # Setup
-title: ksergey's pirate bay
-tagline: Yo-ho-ho!
-description: no description here
+title: random gaming experience
+tagline:
+description: play hard, don't die
 url: http://ksergey.github.io
 baseurl: /
 
@@ -16,7 +16,4 @@ author:
     name: Sergey Kovalevich
     url: https://twitter.com/ksergey_
 
-paginate: 10
-
-# Custom vars
-version: 0.0.1
+paginate: 16
