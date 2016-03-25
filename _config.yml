@@ -14,3 +14,5 @@ baseurl: "/"
 
 author:
     name: "Sergey Kovalevich"
+
+gems: [ "jekyll-paginate" ]
