@@ -10,7 +10,7 @@ title: "ksergey's experience"
 tagline:
 description: "play hard, don't die"
 url: "http://ksergey.github.io"
-baseurl: "/"
+baseurl: "/blog"
 
 author:
     name: "Sergey Kovalevich"
