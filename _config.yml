@@ -6,7 +6,7 @@ highlighter: rouge
 permalink: pretty
 
 # Setup
-title: "ksergey technology"
+title: "ksergey блог"
 description:
 url: "http://ksergey.github.io"
 baseurl: "/"
