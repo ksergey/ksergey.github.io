@@ -6,7 +6,7 @@ highlighter: rouge
 permalink: pretty
 
 # Setup
-title: "ksergey's gaming experience"
+title: "ksergey's experience"
 tagline:
 description: "play hard, don't die"
 url: "http://ksergey.github.io"
@@ -14,8 +14,3 @@ baseurl: "/"
 
 author:
     name: "Sergey Kovalevich"
-
-paginate: 16
-
-gems:
-    - "jekyll-paginate"
