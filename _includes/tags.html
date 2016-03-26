@@ -1,0 +1,11 @@
+{% if post %}
+{% assign tags = post.tags %}
+{% else if page.tags %}
+{% assign tags = page.tags %}
+{% endif %}
+
+{% if tags.size > 0 %}
+<div class="post-tags">
+  <i title="tags" class="fa fa-tags"></i> {{ tags | join: ", " }}
+</div>
+{% endif %}
