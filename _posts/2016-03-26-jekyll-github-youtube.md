@@ -3,6 +3,7 @@ layout: post
 title: Jekyll, GitHub и YouTube
 date: 2016-03-26 02:00:00 +0300
 tags: [ jekyll, github, youtube, trick ]
+comments: true
 
 ---
 
