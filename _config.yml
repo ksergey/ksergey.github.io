@@ -17,4 +17,4 @@ author:
 gems:
     - "jekyll-paginate"
 
-paginate: 16
+paginate: 8
