@@ -173,3 +173,7 @@ a.sidebar-nav-item:focus {
     margin: 0 auto;
     display: block;
 }
+
+.center {
+    text-align: center;
+}
