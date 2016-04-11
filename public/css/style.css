@@ -169,6 +169,7 @@ a.sidebar-nav-item:focus {
   padding-top: 1rem;
 }
 
-.center {
-    text-align: center;
+.center-image {
+    margin: 0 auto;
+    display: block;
 }
