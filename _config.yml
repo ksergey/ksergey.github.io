@@ -6,15 +6,14 @@ highlighter: rouge
 permalink: pretty
 
 # Setup
-title: "блог ksergey"
-description:
+title: "ksergey"
+description: "Дело было вечером, Делать было нечего"
 url: "http://ksergey.github.io"
 baseurl: "/"
 
 author:
     name: "Sergey Kovalevich"
 
-gems:
-    - "jekyll-paginate"
+gems: [ "jekyll-paginate" ]
 
 paginate: 8

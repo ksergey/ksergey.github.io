@@ -5,7 +5,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -52,7 +52,6 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  /* font-family: "Abril Fatface", serif; */
   font-size: 3.25rem;
 }
 
@@ -137,39 +136,4 @@ a.sidebar-nav-item:focus {
     margin-left: 4rem;
     margin-right: 22rem;
   }
-}
-
-
-/* Custom */
-.theme-img .sidebar {
-  background: url(/public/img/sidebar.jpg) repeat #202020;
-}
-
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  padding-top: 30px;
-  height: 0;
-  overflow: hidden;
-}
-
-.video-container iframe,
-.video-container object,
-.video-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.post-tags {
-  color: #999;
-  font-size: 0.8em;
-  padding-top: 1rem;
-}
-
-.center-image {
-    margin: 0 auto;
-    display: block;
 }
