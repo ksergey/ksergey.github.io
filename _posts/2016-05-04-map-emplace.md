@@ -11,6 +11,8 @@ comments: true
 Вы когда-нибудь пытались создать объект (value) в std::map-е без использования std::move?
 До сегодняшнего дня я не знал как это сделать.
 
+![КДПВ]({{ site.url }}/public/post-img/kdpv.jpg){:.center-image}
+
 <!--break-->
 
 В c++11 у std::map есть метод emplace с такой сигнатурой:
