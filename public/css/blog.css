@@ -312,7 +312,7 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
 }
 
-.post-title .hl {
+.post-title .bg {
   background-color: #ccc;
 }
 
