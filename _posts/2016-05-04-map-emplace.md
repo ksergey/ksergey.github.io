@@ -11,7 +11,7 @@ comments: true
 Вы когда-нибудь пытались создать объект (value) в std::map-е без использования std::move?
 До сегодняшнего дня я не знал как это сделать.
 
-![КДПВ]({{ site.url }}/assets/post-img/kdpv0.jpg){:.center-image}
+![КДПВ]({{ site.url }}/assets/kdpv0.jpg){:.center-image}
 
 <!--break-->
 
