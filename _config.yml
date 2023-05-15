@@ -9,7 +9,7 @@ permalink: pretty
 title: "ksergey"
 description: "Заметки"
 url: "http://ksergey.github.io"
-baseurl: ""
+baseurl: "/"
 
 author:
     name: "Sergey Kovalevich"
